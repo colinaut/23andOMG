@@ -5,6 +5,8 @@
 
 .page-header {
     background-color: #fff;
+    background-image: none;
+    padding: 2rem 6rem;
     .btn, .project-tagline {
         display: none;
     }
@@ -12,7 +14,9 @@
         background-image: url(/23andOMG/assets/images/23andOMG-logo.png);
         background-repeat: no-repeat;
         background-size: contain;
+        background-position: center top;
         text-indent: -10000px;
-        height: 200px;
+        height: 300px;
+
     }
 }
