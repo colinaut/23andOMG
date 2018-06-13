@@ -4,12 +4,12 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    background-color: none;
+    background-color: #fff;
     .btn, .project-tagline {
         display: none;
     }
     .project-name {
-        background-image: url(/assets/images/23andOMG-logo.png);
+        background-image: url(/23andOMG/assets/images/23andOMG-logo.png);
         background-repeat: no-repeat;
         background-size: contain;
         text-indent: -10000px;
